@@ -1,0 +1,1 @@
+alias db-get-connection-info='drush eval "print_r(\Drupal::database()->getConnectionOptions())" && echo'
