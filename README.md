@@ -1,2 +1,2 @@
-# d8_bash_aliases
+# D8 Bash Aliases
 Useful Drupal 8 bash aliases
